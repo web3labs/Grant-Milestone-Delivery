@@ -7,7 +7,7 @@
 
 In this milestone we are delivering the functionality to view blocks, extrinsics and events information.
 
-To test out the feature, you will need to visit the public deployment of our block explorer.
+To test out the feature, please follow the simple steps in this [tutorial](https://github.com/web3labs/epirus-substrate/blob/main/explorer-ui/docs/blocks-exploration.md).
 
 **Deliverables**
 | Number | Deliverable | Link | Notes |
